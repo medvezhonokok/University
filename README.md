@@ -1,2 +1,2 @@
-# University labs in 2nd term ITMO CS
+# Labs in 2nd term ITMO CS
 
